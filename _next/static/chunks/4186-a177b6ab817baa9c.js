@@ -234,7 +234,7 @@
                             $boxTop: "-90px",
                             $boxLeft: "-8px",
                             children: [
-                              "Zaros USD, USDz, is an overcollateralized stablecoin backed by Zaros LPs. It is used to settle positions PnL and may be swapped 1:1 to other stablecoins.",
+                              "Inova USD, USDz, is an overcollateralized stablecoin backed by Inova LPs. It is used to settle positions PnL and may be swapped 1:1 to other stablecoins.",
                               (0, a.jsx)("p", {}),
                             ],
                           }),

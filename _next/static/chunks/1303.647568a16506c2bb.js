@@ -2395,8 +2395,8 @@
               t &&
                 (0, i.jsx)(U.j.Loading, {
                   children: (0, i.jsx)("img", {
-                    src: "/zaros-logo-loading.gif",
-                    alt: "Zaros Loading",
+                    src: "/inova-logo-loading.gif",
+                    alt: "Inova Loading",
                     width: 210,
                     height: 210,
                     priority: !0,

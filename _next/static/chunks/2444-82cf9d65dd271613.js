@@ -2702,7 +2702,7 @@
                           (0, r.jsx)(eg.j.Loading, {
                             children: (0, r.jsx)("img", {
                               src: eh.src,
-                              alt: "Zaros Loading",
+                              alt: "Inova Loading",
                               width: 150,
                               height: 150,
                             }),
@@ -2770,7 +2770,7 @@
                           }),
                           (0, r.jsxs)(nY.RowAccountInformation, {
                             children: [
-                              (0, r.jsx)("p", { children: "Zaros Points" }),
+                              (0, r.jsx)("p", { children: "Inova Points" }),
                               void 0 !== i
                                 ? (0, r.jsxs)("span", {
                                     children: [
@@ -3494,7 +3494,7 @@
                   children: [
                     (0, r.jsx)("img", {
                       src: e0.Z.src,
-                      alt: "Zaros Icon",
+                      alt: "Inova Icon",
                       width: 16,
                     }),
                     "Deposit & Create Trading Account",
@@ -3854,7 +3854,7 @@
                               })
                             : (0, r.jsx)("p", {
                                 children:
-                                  "Create an account before trading on Zaros.",
+                                  "Create an account before trading on Inova.",
                               }),
                         ],
                       }),
@@ -3870,7 +3870,7 @@
                                   children: [
                                     "In order to trade on ",
                                     (0, r.jsx)("span", {
-                                      children: "Zaros' Alpha Testnet",
+                                      children: "Inova' Alpha Testnet",
                                     }),
                                     ", you need some",
                                     (0, r.jsx)("span", {
@@ -4689,7 +4689,7 @@
                         children: (0, r.jsx)("img", {
                           width: 165,
                           src: tK.src,
-                          alt: "Icon Zaros",
+                          alt: "Icon Inova",
                         }),
                       }),
                       (0, r.jsxs)(rv, {
@@ -4699,8 +4699,8 @@
                           }),
                           (0, r.jsxs)("p", {
                             children: [
-                              "Validate your Zaros Alpha Key below to be part of the Pre-Season 1 and earn Zaros Points using the Alpha Testnet dApp. You can either get an alpha key with a friend or through ",
-                              "Zaros'",
+                              "Validate your Inova Alpha Key below to be part of the Pre-Season 1 and earn Inova Points using the Alpha Testnet dApp. You can either get an alpha key with a friend or through ",
+                              "Inova'",
                               "community activities.",
                             ],
                           }),
@@ -4772,7 +4772,7 @@
                             target: "_blank",
                             children: (0, r.jsx)(c(), {
                               src: "/assets/icons/x.svg",
-                              alt: "Zaros Twitter",
+                              alt: "Inova Twitter",
                               width: 24,
                               height: 24,
                             }),
@@ -4782,7 +4782,7 @@
                             target: "_blank",
                             children: (0, r.jsx)(c(), {
                               src: "/assets/icons/discord.svg",
-                              alt: "Zaros Discord",
+                              alt: "Inova Discord",
                               width: 24,
                               height: 24,
                             }),
@@ -5613,7 +5613,7 @@
                         children: [
                           (0, r.jsx)("img", {
                             src: ir.Z.src,
-                            alt: "zaros title",
+                            alt: "inova title",
                           }),
                           (0, r.jsxs)("div", {
                             children: [
@@ -5839,7 +5839,7 @@
                       (0, r.jsxs)("span", {
                         children: [
                           " ",
-                          (0, r.jsx)("p", { children: "Zaros Points" }),
+                          (0, r.jsx)("p", { children: "Inova Points" }),
                         ],
                       }),
                     ],
@@ -5917,7 +5917,7 @@
                 goLink: "",
                 label: "dApp",
                 description:
-                  "Invite a friend to join Zaros using your referral code",
+                  "Invite a friend to join Inova using your referral code",
                 claimMessage: "Referees amount: ".concat(
                   void 0 !== i && o + a > 0
                     ? (null == i
@@ -6475,7 +6475,7 @@
                     (0, r.jsx)("div", {
                       children: (0, r.jsx)("img", {
                         src: "light" === x ? r4.src : r3.src,
-                        alt: "Zaros League",
+                        alt: "Inova League",
                         width: 300,
                       }),
                     }),
@@ -6484,10 +6484,10 @@
                         (0, r.jsx)("h3", { children: "Alpha Testnet Rewards" }),
                         (0, r.jsxs)("span", {
                           children: [
-                            "Zaros Points ",
+                            "Inova Points ",
                             "(zPoints)",
                             " can be earned by using the ",
-                            "Zaros’",
+                            "Inova’",
                             " ",
                             "Alpha Testnet 1.0, and they can also be directly converted into $ZRS (conversion ratio yet to be determined).",
                             (0, r.jsx)("p", {
@@ -6669,7 +6669,7 @@
                 }),
                 (0, r.jsxs)(op.Points, {
                   children: [
-                    (0, r.jsx)("h3", { children: "Zaros Points Multiplier" }),
+                    (0, r.jsx)("h3", { children: "Inova Points Multiplier" }),
                     (0, r.jsxs)("p", {
                       children: [
                         (0, r.jsx)("b", { children: "Bronze:" }),
