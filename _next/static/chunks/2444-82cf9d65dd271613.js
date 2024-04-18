@@ -5595,7 +5595,7 @@
             { referral: l } = (0, rG.p)();
           return (0, r.jsxs)(iw.Container, {
             children: [
-              (0, r.jsx)(iw.DownloadButton, {
+              (0, r.jsx)("img", {
                 src: it.src,
                 width: 24,
                 height: 24,
