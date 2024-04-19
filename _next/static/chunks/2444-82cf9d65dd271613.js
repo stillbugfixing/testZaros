@@ -5612,7 +5612,7 @@
                       (0, r.jsxs)(iw.UserStats, {
                         children: [
                           (0, r.jsx)("img", {
-                            src: ir.Z.src,
+                            src: '/_next/static/media/inova2.png',
                             alt: "inova title",
                           }),
                           (0, r.jsxs)("div", {
