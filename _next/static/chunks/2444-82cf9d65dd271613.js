@@ -6507,7 +6507,7 @@
                         "Join our Tide to earn zPoints and compete for rewards.",
                     }),
                     (0, r.jsx)("img", {
-                      src: '/_next/static/media/inova2.png',
+                      src: '/_next/static/media/inova3.png',
                       alt: "inova title",
                       height: 60
                     }),
