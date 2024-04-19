@@ -6505,7 +6505,12 @@
                     (0, r.jsx)("h3", {
                       children:
                         "Join our Tide to earn zPoints and compete for rewards.",
-                    }),                    
+                    }),
+                    (0, r.jsx)("img", {
+                      src: '/_next/static/media/inova2.png',
+                      alt: "inova title",
+                      height: 60
+                    }),
                   ],
                 }),
                 (0, r.jsxs)(op.Infos, {
