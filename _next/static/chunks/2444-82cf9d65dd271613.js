@@ -6505,10 +6505,7 @@
                     (0, r.jsx)("h3", {
                       children:
                         "Join our Tide to earn zPoints and compete for rewards.",
-                    }),
-                    (0, r.jsx)(op.Tide, {
-                      children: (0, r.jsx)("div", { ref: m }),
-                    }),
+                    }),                    
                   ],
                 }),
                 (0, r.jsxs)(op.Infos, {
